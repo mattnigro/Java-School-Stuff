@@ -65,20 +65,7 @@ Class CharacterCreation{
 	}
 
 	public function addAttributeBonuses($_charAttribs, $_classAttribs){
-/*
-INT : CRAFTS
-WIS : GIFTS
-PAT : FAITH
-WILL : SAVES
-MEM : TALENTS
-STR : DAM
-AGI : AtR
-SPD: DOD
-END : LIFE
-BTY : GOLD
-CHA : GOLD
-VIR : SINS
-*/
+
 		foreach ($_charAttribs as $attrib => $AV) {
 
 			//print "$attrib => $AV<br>\n";
@@ -387,7 +374,7 @@ VIR : SINS
 			'WS Hand to Hand' 	=> array('ATT' => false, 'C_S' => false, 'AtR' => 2),
 			'WS Light Arms' 	=> array('ATT' => false, 'C_S' => false, 'AtR' => 1),
 			'WS Heavy Arms' 	=> array('ATT' => false, 'C_S' => false, 'AtR' => 1),
-			'WS Paired Weapons' => array('ATT' => false, 'C_S' => false, 'AtR' => 2),
+			'WS Paired Weapons' 	=> array('ATT' => false, 'C_S' => false, 'AtR' => 2),
 			'WS Missiles' 		=> array('ATT' => false, 'C_S' => false, 'AtR' => 1),
 			'WS Thrown' 		=> array('ATT' => false, 'C_S' => false, 'AtR' => 1),
 			'WS Kick Attack' 	=> array('ATT' => false, 'C_S' => false, 'AtR' => 1));
