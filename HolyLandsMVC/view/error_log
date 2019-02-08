@@ -1,0 +1,389 @@
+[03-Apr-2018 23:45:51 UTC] PHP Notice:  Undefined index: crafts in /home/racmaster/public_html/view/ViewCharacter.php on line 176
+[03-Apr-2018 23:45:51 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/racmaster/public_html/view/ViewCharacter.php on line 200
+[03-Apr-2018 23:45:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/racmaster/public_html/view/ViewCharacter.php on line 201
+[03-Apr-2018 23:46:28 UTC] PHP Notice:  Undefined index: crafts in /home/racmaster/public_html/view/ViewCharacter.php on line 176
+[03-Apr-2018 23:46:28 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/racmaster/public_html/view/ViewCharacter.php on line 200
+[03-Apr-2018 23:46:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/racmaster/public_html/view/ViewCharacter.php on line 201
+[03-Apr-2018 23:48:51 UTC] PHP Notice:  Undefined index: crafts in /home/racmaster/public_html/view/ViewCharacter.php on line 176
+[03-Apr-2018 23:48:51 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/racmaster/public_html/view/ViewCharacter.php on line 200
+[03-Apr-2018 23:48:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/racmaster/public_html/view/ViewCharacter.php on line 201
+[04-Apr-2018 00:03:56 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[04-Apr-2018 00:03:56 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 187
+[04-Apr-2018 00:03:56 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 188
+[04-Apr-2018 00:03:56 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[04-Apr-2018 00:03:56 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[04-Apr-2018 00:03:56 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[04-Apr-2018 00:04:03 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[04-Apr-2018 00:04:03 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 187
+[04-Apr-2018 00:04:03 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 188
+[04-Apr-2018 00:04:03 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[04-Apr-2018 00:04:03 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[04-Apr-2018 00:04:03 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[04-Apr-2018 00:15:09 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[04-Apr-2018 00:15:09 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 187
+[04-Apr-2018 00:15:09 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 188
+[04-Apr-2018 00:15:09 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[04-Apr-2018 00:15:09 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[04-Apr-2018 00:15:09 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[04-Apr-2018 00:16:26 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[04-Apr-2018 00:16:26 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 187
+[04-Apr-2018 00:16:26 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 188
+[04-Apr-2018 00:16:26 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[04-Apr-2018 00:16:26 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[04-Apr-2018 00:16:26 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[04-Apr-2018 00:16:44 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[04-Apr-2018 00:16:44 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 187
+[04-Apr-2018 00:16:44 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 188
+[04-Apr-2018 00:16:44 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[04-Apr-2018 00:16:44 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[04-Apr-2018 00:16:44 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[04-Apr-2018 00:24:51 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 188
+[04-Apr-2018 00:24:51 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 188
+[05-Apr-2018 00:19:06 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[05-Apr-2018 00:19:06 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 185
+[05-Apr-2018 00:19:06 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 186
+[05-Apr-2018 00:19:06 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[05-Apr-2018 00:19:06 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[05-Apr-2018 00:19:06 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[05-Apr-2018 00:30:48 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[05-Apr-2018 00:30:48 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 185
+[05-Apr-2018 00:30:48 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 186
+[05-Apr-2018 00:30:48 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[05-Apr-2018 00:30:48 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[05-Apr-2018 00:30:48 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[05-Apr-2018 05:15:50 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[05-Apr-2018 05:15:50 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 185
+[05-Apr-2018 05:15:50 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 186
+[05-Apr-2018 05:15:50 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[05-Apr-2018 05:15:50 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[05-Apr-2018 05:15:50 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[05-Apr-2018 05:16:03 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[05-Apr-2018 05:16:03 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 185
+[05-Apr-2018 05:16:03 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 186
+[05-Apr-2018 05:16:03 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[05-Apr-2018 05:16:03 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[05-Apr-2018 05:16:03 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[05-Apr-2018 06:38:49 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[05-Apr-2018 06:38:49 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 185
+[05-Apr-2018 06:38:49 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 186
+[05-Apr-2018 06:38:49 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[05-Apr-2018 06:38:49 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[05-Apr-2018 06:38:49 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[05-Apr-2018 06:51:43 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[05-Apr-2018 06:51:43 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 188
+[05-Apr-2018 06:51:43 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 189
+[05-Apr-2018 06:51:43 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[05-Apr-2018 06:51:43 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[05-Apr-2018 06:51:43 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[05-Apr-2018 06:56:47 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[05-Apr-2018 06:56:47 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 188
+[05-Apr-2018 06:56:47 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 189
+[05-Apr-2018 06:56:47 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[05-Apr-2018 06:56:47 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[05-Apr-2018 06:56:47 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[05-Apr-2018 17:39:16 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[05-Apr-2018 17:39:16 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 188
+[05-Apr-2018 17:39:16 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 189
+[05-Apr-2018 17:39:16 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[05-Apr-2018 17:39:16 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[05-Apr-2018 17:39:16 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[05-Apr-2018 17:57:46 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[05-Apr-2018 17:57:46 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 188
+[05-Apr-2018 17:57:46 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 189
+[05-Apr-2018 17:57:46 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[05-Apr-2018 17:57:46 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[05-Apr-2018 17:57:46 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[07-Apr-2018 02:30:13 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[07-Apr-2018 02:30:13 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 188
+[07-Apr-2018 02:30:13 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 189
+[07-Apr-2018 02:30:13 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[07-Apr-2018 02:30:13 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[07-Apr-2018 02:30:13 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[07-Apr-2018 02:30:39 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[07-Apr-2018 02:30:39 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 188
+[07-Apr-2018 02:30:39 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 189
+[07-Apr-2018 02:30:39 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[07-Apr-2018 02:30:39 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[07-Apr-2018 02:30:39 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[07-Apr-2018 03:52:07 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[07-Apr-2018 03:52:07 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 188
+[07-Apr-2018 03:52:07 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 189
+[07-Apr-2018 03:52:07 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[07-Apr-2018 03:52:07 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[07-Apr-2018 03:52:07 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[07-Apr-2018 04:30:51 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[07-Apr-2018 04:30:51 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 188
+[07-Apr-2018 04:30:51 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 189
+[07-Apr-2018 04:30:51 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[07-Apr-2018 04:30:51 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[07-Apr-2018 04:30:51 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[07-Apr-2018 06:41:32 UTC] PHP Notice:  Undefined index: talents in /home/racmaster/public_html/view/ViewCharacter.php on line 175
+[07-Apr-2018 06:41:32 UTC] PHP Notice:  Undefined index: crafts in /home/racmaster/public_html/view/ViewCharacter.php on line 176
+[07-Apr-2018 06:41:32 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/racmaster/public_html/view/ViewCharacter.php on line 200
+[07-Apr-2018 06:41:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/racmaster/public_html/view/ViewCharacter.php on line 201
+[07-Apr-2018 06:41:32 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/racmaster/public_html/view/ViewCharacter.php on line 200
+[07-Apr-2018 06:41:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/racmaster/public_html/view/ViewCharacter.php on line 201
+[07-Apr-2018 06:53:35 UTC] PHP Notice:  Undefined index: talents in /home/racmaster/public_html/view/ViewCharacter.php on line 175
+[07-Apr-2018 06:53:35 UTC] PHP Notice:  Undefined index: crafts in /home/racmaster/public_html/view/ViewCharacter.php on line 176
+[07-Apr-2018 06:53:35 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/racmaster/public_html/view/ViewCharacter.php on line 200
+[07-Apr-2018 06:53:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/racmaster/public_html/view/ViewCharacter.php on line 201
+[07-Apr-2018 06:53:35 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/racmaster/public_html/view/ViewCharacter.php on line 200
+[07-Apr-2018 06:53:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/racmaster/public_html/view/ViewCharacter.php on line 201
+[07-Apr-2018 21:42:50 UTC] PHP Notice:  Undefined variable: _langs in /home/racmaster/public_html/model/FetchCharacter.php on line 307
+[07-Apr-2018 21:42:50 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/racmaster/public_html/model/FetchCharacter.php on line 307
+[07-Apr-2018 21:42:50 UTC] PHP Notice:  Undefined index: name in /home/racmaster/public_html/view/ViewCharacter.php on line 97
+[07-Apr-2018 21:42:50 UTC] PHP Notice:  Undefined index: LVL in /home/racmaster/public_html/view/ViewCharacter.php on line 98
+[07-Apr-2018 21:42:50 UTC] PHP Notice:  Undefined index: stature in /home/racmaster/public_html/view/ViewCharacter.php on line 98
+[07-Apr-2018 21:42:50 UTC] PHP Notice:  Undefined index:  in /home/racmaster/public_html/view/ViewCharacter.php on line 98
+[07-Apr-2018 21:42:50 UTC] PHP Notice:  Undefined index: class in /home/racmaster/public_html/view/ViewCharacter.php on line 98
+[07-Apr-2018 21:42:50 UTC] PHP Notice:  Undefined index: landOfOrigin in /home/racmaster/public_html/view/ViewCharacter.php on line 105
+[07-Apr-2018 21:42:50 UTC] PHP Notice:  Undefined index: age in /home/racmaster/public_html/view/ViewCharacter.php on line 114
+[07-Apr-2018 21:42:50 UTC] PHP Notice:  Undefined index: height in /home/racmaster/public_html/view/ViewCharacter.php on line 115
+[07-Apr-2018 21:42:50 UTC] PHP Notice:  Undefined index: weight in /home/racmaster/public_html/view/ViewCharacter.php on line 116
+[07-Apr-2018 21:42:50 UTC] PHP Notice:  Undefined index: gender in /home/racmaster/public_html/view/ViewCharacter.php on line 117
+[07-Apr-2018 21:42:50 UTC] PHP Notice:  Undefined index: Life in /home/racmaster/public_html/view/ViewCharacter.php on line 127
+[07-Apr-2018 21:42:50 UTC] PHP Notice:  Undefined index: mLife in /home/racmaster/public_html/view/ViewCharacter.php on line 127
+[07-Apr-2018 21:42:50 UTC] PHP Notice:  Undefined index: Faith in /home/racmaster/public_html/view/ViewCharacter.php on line 128
+[07-Apr-2018 21:42:50 UTC] PHP Notice:  Undefined index: mFaith in /home/racmaster/public_html/view/ViewCharacter.php on line 128
+[07-Apr-2018 21:42:50 UTC] PHP Notice:  Undefined index: gold in /home/racmaster/public_html/view/ViewCharacter.php on line 129
+[07-Apr-2018 21:42:50 UTC] PHP Notice:  Undefined index: silver in /home/racmaster/public_html/view/ViewCharacter.php on line 130
+[07-Apr-2018 21:42:50 UTC] PHP Notice:  Undefined index: EXP in /home/racmaster/public_html/view/ViewCharacter.php on line 133
+[07-Apr-2018 21:42:50 UTC] PHP Notice:  Undefined index: mEXP in /home/racmaster/public_html/view/ViewCharacter.php on line 133
+[07-Apr-2018 21:42:50 UTC] PHP Notice:  Undefined variable: _return in /home/racmaster/public_html/model/FetchCharacter.php on line 166
+[07-Apr-2018 21:42:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/racmaster/public_html/view/ViewCharacter.php on line 46
+[07-Apr-2018 21:42:50 UTC] PHP Notice:  Undefined variable: _return in /home/racmaster/public_html/model/FetchCharacter.php on line 189
+[07-Apr-2018 21:42:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/racmaster/public_html/view/ViewCharacter.php on line 46
+[07-Apr-2018 21:42:50 UTC] PHP Notice:  Undefined variable: _saves in /home/racmaster/public_html/model/FetchCharacter.php on line 232
+[07-Apr-2018 21:42:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/racmaster/public_html/view/ViewCharacter.php on line 46
+[07-Apr-2018 21:42:50 UTC] PHP Notice:  Undefined index: gifts in /home/racmaster/public_html/view/ViewCharacter.php on line 176
+[07-Apr-2018 21:42:50 UTC] PHP Notice:  Undefined index: talents in /home/racmaster/public_html/view/ViewCharacter.php on line 177
+[07-Apr-2018 21:42:50 UTC] PHP Notice:  Undefined index: crafts in /home/racmaster/public_html/view/ViewCharacter.php on line 178
+[07-Apr-2018 21:42:50 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/racmaster/public_html/view/ViewCharacter.php on line 202
+[07-Apr-2018 21:42:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/racmaster/public_html/view/ViewCharacter.php on line 203
+[07-Apr-2018 21:42:50 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/racmaster/public_html/view/ViewCharacter.php on line 202
+[07-Apr-2018 21:42:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/racmaster/public_html/view/ViewCharacter.php on line 203
+[07-Apr-2018 21:42:50 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/racmaster/public_html/view/ViewCharacter.php on line 202
+[07-Apr-2018 21:42:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/racmaster/public_html/view/ViewCharacter.php on line 203
+[07-Apr-2018 21:42:50 UTC] PHP Notice:  Undefined index: ADV in /home/racmaster/public_html/view/ViewCharacter.php on line 239
+[07-Apr-2018 21:42:50 UTC] PHP Notice:  Undefined index: DOD in /home/racmaster/public_html/view/ViewCharacter.php on line 243
+[07-Apr-2018 21:42:50 UTC] PHP Notice:  Undefined index: DEF in /home/racmaster/public_html/view/ViewCharacter.php on line 247
+[07-Apr-2018 21:42:50 UTC] PHP Notice:  Undefined index: DAM in /home/racmaster/public_html/view/ViewCharacter.php on line 251
+[07-Apr-2018 22:04:51 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[07-Apr-2018 22:04:51 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 188
+[07-Apr-2018 22:04:51 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 189
+[07-Apr-2018 22:04:51 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[07-Apr-2018 22:04:51 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[07-Apr-2018 22:04:51 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[07-Apr-2018 22:04:55 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[07-Apr-2018 22:04:55 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 188
+[07-Apr-2018 22:04:55 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 189
+[07-Apr-2018 22:04:55 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[07-Apr-2018 22:04:55 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[07-Apr-2018 22:04:55 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[07-Apr-2018 22:07:27 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[07-Apr-2018 22:07:27 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 188
+[07-Apr-2018 22:07:27 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 189
+[07-Apr-2018 22:07:27 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[07-Apr-2018 22:07:27 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[07-Apr-2018 22:07:27 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[07-Apr-2018 22:09:34 UTC] PHP Notice:  Undefined variable: _langs in /home/racmaster/public_html/model/FetchCharacter.php on line 307
+[07-Apr-2018 22:09:34 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/racmaster/public_html/model/FetchCharacter.php on line 307
+[07-Apr-2018 22:09:34 UTC] PHP Notice:  Undefined index: name in /home/racmaster/public_html/view/ViewCharacter.php on line 97
+[07-Apr-2018 22:09:34 UTC] PHP Notice:  Undefined index: LVL in /home/racmaster/public_html/view/ViewCharacter.php on line 98
+[07-Apr-2018 22:09:34 UTC] PHP Notice:  Undefined index: stature in /home/racmaster/public_html/view/ViewCharacter.php on line 98
+[07-Apr-2018 22:09:34 UTC] PHP Notice:  Undefined index:  in /home/racmaster/public_html/view/ViewCharacter.php on line 98
+[07-Apr-2018 22:09:34 UTC] PHP Notice:  Undefined index: class in /home/racmaster/public_html/view/ViewCharacter.php on line 98
+[07-Apr-2018 22:09:34 UTC] PHP Notice:  Undefined index: landOfOrigin in /home/racmaster/public_html/view/ViewCharacter.php on line 105
+[07-Apr-2018 22:09:34 UTC] PHP Notice:  Undefined index: age in /home/racmaster/public_html/view/ViewCharacter.php on line 114
+[07-Apr-2018 22:09:34 UTC] PHP Notice:  Undefined index: height in /home/racmaster/public_html/view/ViewCharacter.php on line 115
+[07-Apr-2018 22:09:34 UTC] PHP Notice:  Undefined index: weight in /home/racmaster/public_html/view/ViewCharacter.php on line 116
+[07-Apr-2018 22:09:34 UTC] PHP Notice:  Undefined index: gender in /home/racmaster/public_html/view/ViewCharacter.php on line 117
+[07-Apr-2018 22:09:34 UTC] PHP Notice:  Undefined index: Life in /home/racmaster/public_html/view/ViewCharacter.php on line 127
+[07-Apr-2018 22:09:34 UTC] PHP Notice:  Undefined index: mLife in /home/racmaster/public_html/view/ViewCharacter.php on line 127
+[07-Apr-2018 22:09:34 UTC] PHP Notice:  Undefined index: Faith in /home/racmaster/public_html/view/ViewCharacter.php on line 128
+[07-Apr-2018 22:09:34 UTC] PHP Notice:  Undefined index: mFaith in /home/racmaster/public_html/view/ViewCharacter.php on line 128
+[07-Apr-2018 22:09:34 UTC] PHP Notice:  Undefined index: gold in /home/racmaster/public_html/view/ViewCharacter.php on line 129
+[07-Apr-2018 22:09:34 UTC] PHP Notice:  Undefined index: silver in /home/racmaster/public_html/view/ViewCharacter.php on line 130
+[07-Apr-2018 22:09:34 UTC] PHP Notice:  Undefined index: EXP in /home/racmaster/public_html/view/ViewCharacter.php on line 133
+[07-Apr-2018 22:09:34 UTC] PHP Notice:  Undefined index: mEXP in /home/racmaster/public_html/view/ViewCharacter.php on line 133
+[07-Apr-2018 22:09:34 UTC] PHP Notice:  Undefined variable: _return in /home/racmaster/public_html/model/FetchCharacter.php on line 166
+[07-Apr-2018 22:09:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/racmaster/public_html/view/ViewCharacter.php on line 46
+[07-Apr-2018 22:09:34 UTC] PHP Notice:  Undefined variable: _return in /home/racmaster/public_html/model/FetchCharacter.php on line 189
+[07-Apr-2018 22:09:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/racmaster/public_html/view/ViewCharacter.php on line 46
+[07-Apr-2018 22:09:34 UTC] PHP Notice:  Undefined variable: _saves in /home/racmaster/public_html/model/FetchCharacter.php on line 232
+[07-Apr-2018 22:09:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/racmaster/public_html/view/ViewCharacter.php on line 46
+[07-Apr-2018 22:09:34 UTC] PHP Notice:  Undefined index: gifts in /home/racmaster/public_html/view/ViewCharacter.php on line 176
+[07-Apr-2018 22:09:34 UTC] PHP Notice:  Undefined index: talents in /home/racmaster/public_html/view/ViewCharacter.php on line 177
+[07-Apr-2018 22:09:34 UTC] PHP Notice:  Undefined index: crafts in /home/racmaster/public_html/view/ViewCharacter.php on line 178
+[07-Apr-2018 22:09:34 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/racmaster/public_html/view/ViewCharacter.php on line 202
+[07-Apr-2018 22:09:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/racmaster/public_html/view/ViewCharacter.php on line 203
+[07-Apr-2018 22:09:34 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/racmaster/public_html/view/ViewCharacter.php on line 202
+[07-Apr-2018 22:09:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/racmaster/public_html/view/ViewCharacter.php on line 203
+[07-Apr-2018 22:09:34 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/racmaster/public_html/view/ViewCharacter.php on line 202
+[07-Apr-2018 22:09:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/racmaster/public_html/view/ViewCharacter.php on line 203
+[07-Apr-2018 22:09:34 UTC] PHP Notice:  Undefined index: ADV in /home/racmaster/public_html/view/ViewCharacter.php on line 239
+[07-Apr-2018 22:09:34 UTC] PHP Notice:  Undefined index: DOD in /home/racmaster/public_html/view/ViewCharacter.php on line 243
+[07-Apr-2018 22:09:34 UTC] PHP Notice:  Undefined index: DEF in /home/racmaster/public_html/view/ViewCharacter.php on line 247
+[07-Apr-2018 22:09:34 UTC] PHP Notice:  Undefined index: DAM in /home/racmaster/public_html/view/ViewCharacter.php on line 251
+[07-Apr-2018 23:30:16 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[07-Apr-2018 23:30:16 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 188
+[07-Apr-2018 23:30:16 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 189
+[07-Apr-2018 23:30:16 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[07-Apr-2018 23:30:16 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[07-Apr-2018 23:30:16 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[08-Apr-2018 01:19:30 UTC] PHP Notice:  Undefined index: talents in /home/racmaster/public_html/view/ViewCharacter.php on line 177
+[08-Apr-2018 01:19:30 UTC] PHP Notice:  Undefined index: crafts in /home/racmaster/public_html/view/ViewCharacter.php on line 178
+[08-Apr-2018 01:19:30 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/racmaster/public_html/view/ViewCharacter.php on line 202
+[08-Apr-2018 01:19:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/racmaster/public_html/view/ViewCharacter.php on line 203
+[08-Apr-2018 01:19:30 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/racmaster/public_html/view/ViewCharacter.php on line 202
+[08-Apr-2018 01:19:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/racmaster/public_html/view/ViewCharacter.php on line 203
+[08-Apr-2018 01:22:43 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[08-Apr-2018 01:22:43 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 188
+[08-Apr-2018 01:22:43 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 189
+[08-Apr-2018 01:22:43 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[08-Apr-2018 01:22:43 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[08-Apr-2018 01:22:43 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[08-Apr-2018 14:15:45 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[08-Apr-2018 14:15:45 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 188
+[08-Apr-2018 14:15:45 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 189
+[08-Apr-2018 14:15:45 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[08-Apr-2018 14:15:45 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[08-Apr-2018 14:15:45 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[08-Apr-2018 16:50:54 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[08-Apr-2018 16:50:54 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 188
+[08-Apr-2018 16:50:54 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 189
+[08-Apr-2018 16:50:54 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[08-Apr-2018 16:50:54 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[08-Apr-2018 16:50:54 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[08-Apr-2018 23:26:35 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[08-Apr-2018 23:26:35 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 188
+[08-Apr-2018 23:26:35 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 189
+[08-Apr-2018 23:26:35 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[08-Apr-2018 23:26:35 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[08-Apr-2018 23:26:35 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[09-Apr-2018 21:48:39 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[09-Apr-2018 21:48:39 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 188
+[09-Apr-2018 21:48:39 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 189
+[09-Apr-2018 21:48:39 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[09-Apr-2018 21:48:39 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[09-Apr-2018 21:48:39 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[10-Apr-2018 03:19:12 UTC] PHP Notice:  Undefined index: crafts in /home/racmaster/public_html/view/ViewCharacter.php on line 178
+[10-Apr-2018 03:19:12 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/racmaster/public_html/view/ViewCharacter.php on line 202
+[10-Apr-2018 03:19:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/racmaster/public_html/view/ViewCharacter.php on line 203
+[10-Apr-2018 03:23:59 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[10-Apr-2018 03:23:59 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 188
+[10-Apr-2018 03:23:59 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 189
+[10-Apr-2018 03:23:59 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[10-Apr-2018 03:23:59 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[10-Apr-2018 03:23:59 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[10-Apr-2018 17:50:47 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[10-Apr-2018 17:50:47 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 188
+[10-Apr-2018 17:50:47 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 189
+[10-Apr-2018 17:50:47 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[10-Apr-2018 17:50:47 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[10-Apr-2018 17:50:47 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[11-Apr-2018 02:24:42 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[11-Apr-2018 02:24:42 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 188
+[11-Apr-2018 02:24:42 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 189
+[11-Apr-2018 02:24:42 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[11-Apr-2018 02:24:42 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[11-Apr-2018 02:24:42 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[11-Apr-2018 02:24:54 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[11-Apr-2018 02:24:54 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 188
+[11-Apr-2018 02:24:54 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 189
+[11-Apr-2018 02:24:54 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[11-Apr-2018 02:24:54 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[11-Apr-2018 02:24:54 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[11-Apr-2018 15:08:47 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[11-Apr-2018 15:08:47 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 188
+[11-Apr-2018 15:08:47 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 189
+[11-Apr-2018 15:08:47 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[11-Apr-2018 15:08:47 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[11-Apr-2018 15:08:47 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[12-Apr-2018 03:04:09 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[12-Apr-2018 03:04:09 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 188
+[12-Apr-2018 03:04:09 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 189
+[12-Apr-2018 03:04:09 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[12-Apr-2018 03:04:09 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[12-Apr-2018 03:04:09 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[12-Apr-2018 16:27:44 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[12-Apr-2018 16:27:44 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 188
+[12-Apr-2018 16:27:44 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 189
+[12-Apr-2018 16:27:44 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[12-Apr-2018 16:27:44 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[12-Apr-2018 16:27:44 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[13-Apr-2018 19:01:00 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[13-Apr-2018 19:01:00 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 188
+[13-Apr-2018 19:01:00 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 189
+[13-Apr-2018 19:01:00 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[13-Apr-2018 19:01:00 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[13-Apr-2018 19:01:00 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[13-Apr-2018 19:18:24 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[13-Apr-2018 19:18:24 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 188
+[13-Apr-2018 19:18:24 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 189
+[13-Apr-2018 19:18:24 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 63
+[13-Apr-2018 19:18:24 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 64
+[13-Apr-2018 19:18:24 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 65
+[14-Apr-2018 11:21:06 UTC] PHP Notice:  Undefined variable: _langs in /home/racmaster/public_html/model/FetchCharacter.php on line 311
+[14-Apr-2018 11:21:06 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/racmaster/public_html/model/FetchCharacter.php on line 311
+[14-Apr-2018 11:21:06 UTC] PHP Notice:  Undefined index: name in /home/racmaster/public_html/view/ViewCharacter.php on line 96
+[14-Apr-2018 11:21:06 UTC] PHP Notice:  Undefined index: LVL in /home/racmaster/public_html/view/ViewCharacter.php on line 97
+[14-Apr-2018 11:21:06 UTC] PHP Notice:  Undefined index: stature in /home/racmaster/public_html/view/ViewCharacter.php on line 97
+[14-Apr-2018 11:21:06 UTC] PHP Notice:  Undefined index:  in /home/racmaster/public_html/view/ViewCharacter.php on line 97
+[14-Apr-2018 11:21:06 UTC] PHP Notice:  Undefined index: class in /home/racmaster/public_html/view/ViewCharacter.php on line 97
+[14-Apr-2018 11:21:06 UTC] PHP Notice:  Undefined index: landOfOrigin in /home/racmaster/public_html/view/ViewCharacter.php on line 104
+[14-Apr-2018 11:21:06 UTC] PHP Notice:  Undefined index: age in /home/racmaster/public_html/view/ViewCharacter.php on line 113
+[14-Apr-2018 11:21:06 UTC] PHP Notice:  Undefined index: height in /home/racmaster/public_html/view/ViewCharacter.php on line 114
+[14-Apr-2018 11:21:06 UTC] PHP Notice:  Undefined index: weight in /home/racmaster/public_html/view/ViewCharacter.php on line 115
+[14-Apr-2018 11:21:06 UTC] PHP Notice:  Undefined index: gender in /home/racmaster/public_html/view/ViewCharacter.php on line 116
+[14-Apr-2018 11:21:06 UTC] PHP Notice:  Undefined index: Life in /home/racmaster/public_html/view/ViewCharacter.php on line 126
+[14-Apr-2018 11:21:06 UTC] PHP Notice:  Undefined index: mLife in /home/racmaster/public_html/view/ViewCharacter.php on line 126
+[14-Apr-2018 11:21:06 UTC] PHP Notice:  Undefined index: Faith in /home/racmaster/public_html/view/ViewCharacter.php on line 127
+[14-Apr-2018 11:21:06 UTC] PHP Notice:  Undefined index: mFaith in /home/racmaster/public_html/view/ViewCharacter.php on line 127
+[14-Apr-2018 11:21:06 UTC] PHP Notice:  Undefined index: gold in /home/racmaster/public_html/view/ViewCharacter.php on line 128
+[14-Apr-2018 11:21:06 UTC] PHP Notice:  Undefined index: silver in /home/racmaster/public_html/view/ViewCharacter.php on line 129
+[14-Apr-2018 11:21:06 UTC] PHP Notice:  Undefined index: EXP in /home/racmaster/public_html/view/ViewCharacter.php on line 132
+[14-Apr-2018 11:21:06 UTC] PHP Notice:  Undefined index: mEXP in /home/racmaster/public_html/view/ViewCharacter.php on line 132
+[14-Apr-2018 11:21:06 UTC] PHP Notice:  Undefined variable: _return in /home/racmaster/public_html/model/FetchCharacter.php on line 170
+[14-Apr-2018 11:21:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/racmaster/public_html/view/ViewCharacter.php on line 44
+[14-Apr-2018 11:21:06 UTC] PHP Notice:  Undefined variable: _return in /home/racmaster/public_html/model/FetchCharacter.php on line 193
+[14-Apr-2018 11:21:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/racmaster/public_html/view/ViewCharacter.php on line 44
+[14-Apr-2018 11:21:06 UTC] PHP Notice:  Undefined variable: _saves in /home/racmaster/public_html/model/FetchCharacter.php on line 236
+[14-Apr-2018 11:21:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/racmaster/public_html/view/ViewCharacter.php on line 44
+[14-Apr-2018 11:21:06 UTC] PHP Notice:  Undefined index: gifts in /home/racmaster/public_html/view/ViewCharacter.php on line 175
+[14-Apr-2018 11:21:06 UTC] PHP Notice:  Undefined index: talents in /home/racmaster/public_html/view/ViewCharacter.php on line 176
+[14-Apr-2018 11:21:06 UTC] PHP Notice:  Undefined index: crafts in /home/racmaster/public_html/view/ViewCharacter.php on line 177
+[14-Apr-2018 11:21:06 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/racmaster/public_html/view/ViewCharacter.php on line 201
+[14-Apr-2018 11:21:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/racmaster/public_html/view/ViewCharacter.php on line 202
+[14-Apr-2018 11:21:06 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/racmaster/public_html/view/ViewCharacter.php on line 201
+[14-Apr-2018 11:21:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/racmaster/public_html/view/ViewCharacter.php on line 202
+[14-Apr-2018 11:21:06 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home/racmaster/public_html/view/ViewCharacter.php on line 201
+[14-Apr-2018 11:21:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/racmaster/public_html/view/ViewCharacter.php on line 202
+[14-Apr-2018 11:21:06 UTC] PHP Notice:  Undefined index: ADV in /home/racmaster/public_html/view/ViewCharacter.php on line 240
+[14-Apr-2018 11:21:06 UTC] PHP Notice:  Undefined index: DOD in /home/racmaster/public_html/view/ViewCharacter.php on line 244
+[14-Apr-2018 11:21:06 UTC] PHP Notice:  Undefined index: DEF in /home/racmaster/public_html/view/ViewCharacter.php on line 248
+[14-Apr-2018 11:21:06 UTC] PHP Notice:  Undefined index: DAM in /home/racmaster/public_html/view/ViewCharacter.php on line 252
+[14-Apr-2018 18:58:04 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[14-Apr-2018 18:58:04 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 188
+[14-Apr-2018 18:58:04 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 189
+[14-Apr-2018 18:58:04 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 80
+[14-Apr-2018 18:58:04 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 81
+[14-Apr-2018 18:58:04 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 82
+[14-Apr-2018 20:32:50 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[14-Apr-2018 20:32:50 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 188
+[14-Apr-2018 20:32:50 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 189
+[14-Apr-2018 20:32:50 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 80
+[14-Apr-2018 20:32:50 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 81
+[14-Apr-2018 20:32:50 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 82
+[14-Apr-2018 21:19:59 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[14-Apr-2018 21:19:59 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 188
+[14-Apr-2018 21:19:59 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 189
+[14-Apr-2018 21:19:59 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 80
+[14-Apr-2018 21:19:59 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 81
+[14-Apr-2018 21:19:59 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 82
+[14-Apr-2018 21:21:03 UTC] PHP Notice:  Undefined index: MID in /home/racmaster/public_html/view/index.php on line 11
+[14-Apr-2018 21:21:03 UTC] PHP Notice:  Undefined offset: 1 in /home/racmaster/public_html/model/Members.php on line 188
+[14-Apr-2018 21:21:03 UTC] PHP Notice:  Undefined offset: 2 in /home/racmaster/public_html/model/Members.php on line 189
+[14-Apr-2018 21:21:03 UTC] PHP Notice:  Undefined variable: charDataTable in /home/racmaster/public_html/view/index.php on line 80
+[14-Apr-2018 21:21:03 UTC] PHP Notice:  Undefined variable: skillTable in /home/racmaster/public_html/view/index.php on line 81
+[14-Apr-2018 21:21:03 UTC] PHP Notice:  Undefined variable: ComAbsWSTable in /home/racmaster/public_html/view/index.php on line 82

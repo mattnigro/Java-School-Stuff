@@ -1,0 +1,64 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: Georgia, Arial, sans-serif;
+}
+fieldset{
+	font-size: 12px;
+	padding: 7px;
+}
+table{
+	border-collapse: collapse;
+}
+#header{
+	position: fixed;
+	top: 0;
+	left: 0;
+	border: 0;
+	background-color: #FFFFFF;
+	height: 100px;
+	box-shadow: 0 7px 30px #8A8A8A;
+	width: 100%;
+}
+#divLogin{
+	float: right;
+	padding: 12px;
+}
+#bodyDiv{
+	padding-top: 112px;
+}
+.padImg{
+	margin: 12px;
+}
+.charSubs{
+	font-size: small;
+}
+
+td.tdHighlight:hover{
+	background-color: #CED7FC;
+
+}
+.trHighlightGo:hover{
+
+	background-color: #CED7FC;
+}
+.trHighlightNo:hover{
+
+	background-color: #E1E1E1;
+}
+.tdD20med{
+	text-align: center;
+	vertical-align: middle;
+}
+.btnD20med{
+	font-size: small;;
+	height: 33px;
+	width: 33px;
+	border: transparent;
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-position: center;
+	color: #FFFFFF;
+	cursor: pointer;
+	background-image: url('../images/icons/d20med_sap.png');
+}
