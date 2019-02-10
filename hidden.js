@@ -1,4 +1,4 @@
-
+//Character Creation animation
 function charTip(sID){ // SELECTED ID i.e. '#msct'
 
 	arr = document.querySelectorAll('.modalPop'); // arr = IMAGES array
